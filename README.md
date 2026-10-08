@@ -50,7 +50,4 @@ The main objective of this project is to transform HR data into **clear, actiona
 ## 👨‍💻 Author
 
 **Satyam Mishra**
-
-SI - MCA2026148
-
 ⭐ If you find this project useful, consider giving the repository a star!
