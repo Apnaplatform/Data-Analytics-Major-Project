@@ -42,12 +42,6 @@ The dashboard helps identify:
 * Workforce requirements and skill gaps
 * Key HR performance indicators
 
-## 📂 Project File
-
-📥 **[Download Excel Dashboard](./‪C:\Users\USER\OneDrive\Desktop\Project Dashboard.xlsx)**
-
-
-> Download the Excel file and open it in Microsoft Excel to explore the dashboard and calculation
 
 ## 🎯 Project Objective
 
