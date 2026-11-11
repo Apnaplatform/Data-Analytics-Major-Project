@@ -56,12 +56,6 @@ This dashboard helps HR teams to:
 - Understand how employee experience impacts attrition.
 - Support strategic HR planning and employee retention decisions.
 
-## 🖥️ Dashboard Preview
-
-Add your dashboard screenshot here:
-
-![HR Analytics Dashboard](C:\Users\USER\OneDrive\Documents\Pictures)
-
 ## 📂 Project File
 
 The Power BI project file is available in this repository:
