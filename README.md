@@ -1,53 +1,86 @@
-# 📊 HR & Workforce Analytics Dashboard
+# 📊 HR Analytics Dashboard – Power BI
 
-An interactive **HR & Workforce Analytics Dashboard** built in Microsoft Excel to analyze employee performance, attrition, recruitment, compensation, and workforce planning.
+## 📌 Project Overview
 
-The dashboard uses **KPI cards, formulas, charts, Pivot Tables, and interactive analysis** to convert raw HR data into meaningful business insights.
+The **HR Analytics Dashboard** is an interactive Power BI dashboard designed to analyze employee data, workforce distribution, employee satisfaction, and attrition trends.
 
-## 📌 Key Modules
+This dashboard helps HR professionals understand employee behavior, identify attrition patterns, and make data-driven decisions to improve employee retention and workforce management.
 
-* 👨‍💼 **Employee Performance Analytics**
-* 📉 **Employee Attrition Analytics**
-* 🎯 **Recruitment Analytics**
-* 💰 **Salary & Compensation Analytics**
-* 👥 **Workforce Planning Analytics**
+## 🎯 Project Objectives
 
-## 📊 Key KPIs
+- Analyze overall employee count and workforce distribution.
+- Monitor employee attrition count and attrition rate.
+- Understand attrition trends across different departments.
+- Analyze employee demographics based on age and gender.
+- Evaluate attrition based on salary slabs and job roles.
+- Identify the relationship between job satisfaction and employee attrition.
+- Analyze employee experience and years at the company.
 
-* Total Employees
-* Average Performance Score
-* Attrition Rate
-* Total Hires
-* Average Compensation
-* Average Hiring Time
-* Workforce Gap
+## 📈 Key Performance Indicators (KPIs)
 
-## 🛠️ Tools Used
+The dashboard includes the following key metrics:
 
-* Microsoft Excel
-* Pivot Tables
-* Excel Formulas
-* KPI Cards
-* Charts & Data Visualization
-* HR Analytics
+- **Total Employees** – Overall number of employees.
+- **Active Employees** – Number of currently active employees.
+- **Attrition Count** – Total number of employees who left the organization.
+- **Attrition Rate (%)** – Percentage of employees who left the organization.
+- **Average Age** – Average age of employees.
+- **Average Experience** – Average years of employee experience.
 
-## 🔍 Dashboard Insights
+## 📊 Dashboard Features
 
-The dashboard helps identify:
+- Department-wise Employee Analysis
+- Department-wise Attrition Analysis
+- Gender-wise Attrition Analysis
+- Age Group-wise Employee Distribution
+- Salary Slab-wise Attrition Analysis
+- Job Role-wise Job Satisfaction Analysis
+- Total Experience-wise Attrition Analysis
+- Interactive Filters and Slicers
 
-* Department-wise employee performance
-* Employee attrition and risk
-* Recruitment funnel and hiring sources
-* Salary and compensation trends
-* Workforce requirements and skill gaps
-* Key HR performance indicators
+## 🛠️ Tools & Technologies
 
+- **Microsoft Power BI** – Dashboard Development & Visualization
+- **Power Query** – Data Cleaning and Transformation
+- **DAX** – Calculated Measures and KPIs
+- **Microsoft Excel** – Data Source and Data Preparation
 
-## 🎯 Project Objective
+## 💡 Key Business Insights
 
-The main objective of this project is to transform HR data into **clear, actionable insights** that can support better employee management, recruitment decisions, compensation planning, and workforce strategy.
+This dashboard helps HR teams to:
+
+- Identify departments with higher employee attrition.
+- Understand which age groups have higher employee turnover.
+- Analyze employee retention across different salary slabs.
+- Evaluate job satisfaction across various job roles.
+- Understand how employee experience impacts attrition.
+- Support strategic HR planning and employee retention decisions.
+
+## 🖥️ Dashboard Preview
+
+Add your dashboard screenshot here:
+
+![HR Analytics Dashboard](Dashboard-Screenshot.png)
+
+## 📂 Project File
+
+The Power BI project file is available in this repository:
+
+`HR Analytics Dashboard.pbix`
+
+## 🚀 How to Use
+
+1. Clone or download this repository.
+2. Download and install Microsoft Power BI Desktop.
+3. Open the `HR Analytics Dashboard.pbix` file.
+4. Explore the dashboard using interactive filters and visualizations.
 
 ## 👨‍💻 Author
 
-**Satyam Mishra**
-⭐ If you find this project useful, consider giving the repository a star!
+**Satyam**
+
+Power BI | Data Analytics | Data Visualization
+
+---
+
+⭐ If you find this project useful, don't forget to give this repository a star!
