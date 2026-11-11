@@ -60,7 +60,7 @@ This dashboard helps HR teams to:
 
 Add your dashboard screenshot here:
 
-![HR Analytics Dashboard](Dashboard-Screenshot.png)
+![HR Analytics Dashboard](C:\Users\USER\OneDrive\Documents\Pictures)
 
 ## 📂 Project File
 
